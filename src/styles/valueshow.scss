@@ -1,0 +1,15 @@
+.app__shoppingList {
+	width: 100%;
+	
+}
+
+.app__boxList {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	justify-content: space-between;
+	margin: 5%;
+}
+

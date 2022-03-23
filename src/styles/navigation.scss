@@ -1,0 +1,25 @@
+.app__banner {
+	color: #000000;
+	text-align: center;
+	padding: 32px;
+	border-bottom: solid 1px black;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: center;
+}
+
+.app__title {
+	padding-left: 32px;
+	display: flex;
+	justify-content: center;
+}
+
+.app__logo {
+	height: 45px;
+	width: 45px;
+}
+
+.title__color1 {
+	color: #266DB6;
+}
